@@ -1,1 +1,1 @@
-require('shelljs').exec('hexo server -p 80');
+require('shelljs').exec('hexo server');
