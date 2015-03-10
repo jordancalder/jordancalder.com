@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: jordancalder.github.io
-subtitle: Thoughts and findings
-description: Just another blog
+title: jordancalder.com
+subtitle:
+description:
 author: Jordan Calder
 language: default
 timezone:
