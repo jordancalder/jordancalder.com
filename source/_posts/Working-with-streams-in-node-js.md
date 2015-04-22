@@ -119,3 +119,7 @@ The purpose of streams is to limit the buffering done to suitable levels so sour
 Typically, streams operate on strings and buffers. Streams in object mode can push any type of javascript object.
 
 	var transform = require('stream').Transform( { objectMode : true } );
+
+## Real-life uses
+
+Transform stream: [email-stripper module](https://www.npmjs.com/package/email-stripper), [read-line module](https://www.npmjs.com/package/read-line)
